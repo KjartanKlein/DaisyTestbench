@@ -1,10 +1,9 @@
-# myDaisy
+# Daisy Test Bench
 
 ## Author
+Kjartan Klein 
 
-<!-- Insert Your Name Here -->
 
 ## Description
 
-<!-- Describe your example here -->
-# DaisyTestbench
+Tests for the daisy seed, managing input, output and audio of course
